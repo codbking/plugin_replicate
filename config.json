@@ -100,6 +100,20 @@
         "guidance_scale": 7
       },
       "desc": "使用openjourney模型出图"
+    },
+     {
+      "keywords": [
+        "换头"
+      ],
+      "params": {
+        "model": "orpatashnik/styleclip",
+        "version": "7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021",
+        "negative_prompt": "",
+        "prompt": "mdjrny-v4 style, masterpiece, 8k, best quality, illustration, beautiful detailed, finely detailed, dramatic light, intricate details",
+        "num_inference_steps": 30,
+        "guidance_scale": 7
+      },
+      "desc": "使用styleclip换头"
     }
   ]
 }
