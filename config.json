@@ -103,12 +103,12 @@
     },
     {
       "keywords": [
-        "换头"
+        "换发型"
       ],
       "params": {
         "model": "orpatashnik/styleclip",
         "version": "7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021",
-        "input": "image",
+        "image": "input",
         "target": "a face with a bowlcut",
         "neutral": "a face",
         "manipulation_strength": 4.1,
