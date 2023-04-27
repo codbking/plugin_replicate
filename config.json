@@ -106,8 +106,8 @@
         "换头"
       ],
       "params": {
-        "model": "sczhou/codeformer",
-        "version": "7de2ea26c616d5bf2245ad0d5e24f0ff9a6204578a5c876db53142edd9d2cd56",
+        "model": "orpatashnik/styleclip",
+        "version": "7af9a66f36f97fee2fece7dcc927551a951f0022cbdd23747b9212f23fc17021",
         "image": "image",
         "upscale": 2,
         "face_upsample": true,
